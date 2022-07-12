@@ -110,8 +110,8 @@ namespace MakeyMakey {
             MakeyMakeyKey.A,
             MakeyMakeyKey.S,
             MakeyMakeyKey.D,
-            MakeyMakeyKey.F,
-            MakeyMakeyKey.G
+            MakeyMakeyKey.G,
+            MakeyMakeyKey.F
         )
     }
 }
