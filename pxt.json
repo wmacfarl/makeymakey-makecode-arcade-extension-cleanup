@@ -1,0 +1,26 @@
+{
+    "name": "Makey Makey Keymappings",
+    "version":"1.0.0",
+    "description": "An extension that allows you to use the Makey Makey board to play MakeCode Arcade games by allowing you to remap the keybindings for the MakeCode Arcade simulator buttons.",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "ext.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.9.11",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
