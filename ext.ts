@@ -62,25 +62,25 @@ namespace MakeyMakey {
     }
 
     export enum PlayerNumber {
-        //% block="Player 1"
+        //% block="player 1"
         ONE = 1,
-        //% block="Player 2"
+        //% block="player 2"
         TWO = 2,
-        //% block="Player 3"
+        //% block="player 3"
         THREE = 3,
-        //% block="Player 4"
+        //% block="player 4"
         FOUR = 4
     }
     //% blockId=set_simulator_keymap_for_player
-    //% block="Set simulator keymap for $playerNumber \n UP $buttonUp \n DOWN $buttonDown \n LEFT $buttonLeft \n RIGHT $buttonRight \n A $buttonA \n B $buttonB"    
+    //% block="set simulator keys for $playerNumber \n UP $buttonUp \n DOWN $buttonDown \n LEFT $buttonLeft \n RIGHT $buttonRight \n A $buttonA \n B $buttonB"    
     export function setSimulatorKeymap(
-        playerNumber: PlayerNumber,
-        buttonUp: MakeyMakeyKey,
-        buttonDown: MakeyMakeyKey,
-        buttonLeft: MakeyMakeyKey,
-        buttonRight: MakeyMakeyKey,
-        buttonA: MakeyMakeyKey,
-        buttonB: MakeyMakeyKey) {
+        playerNumber: PlayerNumber = 1,
+        buttonUp: MakeyMakeyKey = MakeyMakeyKey.UP,
+        buttonDown: MakeyMakeyKey = MakeyMakeyKey.DOWN,
+        buttonLeft: MakeyMakeyKey = MakeyMakeyKey.LEFT,
+        buttonRight: MakeyMakeyKey = MakeyMakeyKey.RIGHT,
+        buttonA: MakeyMakeyKey = MakeyMakeyKey.SPACE,
+        buttonB: MakeyMakeyKey = MakeyMakeyKey.LEFT_CLICK) {
         keymap.setPlayerKeys(
             playerNumber,
             MakeyMakeyKeyToKeyCode(buttonUp),
@@ -95,7 +95,7 @@ namespace MakeyMakey {
 
 
     //% blockId=set_simulator_keymap_to_makey_makey_defaults
-    //% block="Use Default Makey Makey Keys"
+    //% block="use makey makey default keys"
     export function setMakeyMakeyDefaults() {
         setSimulatorKeymap(1,
             MakeyMakeyKey.UP,

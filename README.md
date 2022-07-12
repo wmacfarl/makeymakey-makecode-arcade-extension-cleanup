@@ -27,7 +27,7 @@ The `Use Default Makey Makey Keys` block tells the simulator to use the inputs o
 * B BUTTON -> F
 
 #### `Set Simulator Keymap for Player`
-
+The `Set Simulator Keymap for Player` block allows you to create a custom control scheme by choosing which keys correspond to which MakeCode Arcade simulator buttons.
 
 ## Use as Extension
 
