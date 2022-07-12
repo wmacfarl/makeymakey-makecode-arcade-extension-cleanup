@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://eanders-ms.github.io/makey-makey-ext/](https://eanders-ms.github.io/makey-makey-ext/)
+> Open this page at [https://github.com/joylabz/makeymakey-makecode-arcade-extension](https://github.com/joylabz/makeymakey-makecode-arcade-extension)
 
 ## Use as Extension
 
@@ -10,22 +10,22 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/eanders-ms/makey-makey-ext** and import
+* search for **https://github.com/joylabz/makeymakey-makecode-arcade-extension** and import
 
-## Edit this project ![Build status badge](https://github.com/eanders-ms/makey-makey-ext/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/joylabz/makeymakey-makecode-arcade-extension/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/eanders-ms/makey-makey-ext** and click import
+* paste **https://github.com/joylabz/makeymakey-makecode-arcade-extension** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/eanders-ms/makey-makey-ext/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/joylabz/makeymakey-makecode-arcade-extension/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
