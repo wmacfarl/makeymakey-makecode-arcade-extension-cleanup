@@ -51,7 +51,7 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/joylabz/makeymakey-makecode-arcade-extension/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/joylabz/makeymakey-makecode-arcade-extension/raw/main/assets/blocks.png)
 
 #### Metadata (used for search, rendering)
 
