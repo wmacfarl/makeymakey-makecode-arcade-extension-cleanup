@@ -3,6 +3,10 @@
 
 > Open this page at [https://github.com/joylabz/makeymakey-makecode-arcade-extension](https://github.com/joylabz/makeymakey-makecode-arcade-extension)
 
+## Usage
+
+This 
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
