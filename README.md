@@ -1,6 +1,3 @@
- 
-
-
 > Open this page at [https://github.com/joylabz/makeymakey-makecode-arcade-extension](https://github.com/joylabz/makeymakey-makecode-arcade-extension)
 
 ## Usage
@@ -48,12 +45,4 @@ To edit this repository in MakeCode.
 
 ## Blocks preview
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
 ![A rendered view of the blocks](https://github.com/joylabz/makeymakey-makecode-arcade-extension/raw/main/assets/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
