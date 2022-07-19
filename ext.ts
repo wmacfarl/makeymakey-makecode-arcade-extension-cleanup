@@ -1,4 +1,4 @@
-//% weight=97 color=#2BB473 icon="\uf11c"
+//% weight=98 color=#2BB473 icon="\uf11c"
 namespace MakeyMakey {
     export enum MakeyMakeyKey {
         //% block="UP ARROW"
