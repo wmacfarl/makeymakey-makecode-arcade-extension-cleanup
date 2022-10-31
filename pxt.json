@@ -6,7 +6,6 @@
         "device": "*"
     },
     "files": [
-        "main.blocks",
         "README.md",
         "ext.ts"
     ],
